@@ -23,3 +23,4 @@ $path = plugin_dir_path( __FILE__ );
  */
 require_once $path . 'cgb-demo-block/plugin.php';
 require_once $path . 'my-block/plugin.php';
+require_once $path . 'block-raid/plugin.php';

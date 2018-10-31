@@ -1,0 +1,10 @@
+/**
+ * #.# Editor Styles
+ *
+ * CSS for just Backend enqueued after style.scss
+ * which makes it higher in priority.
+ */
+
+ .wp-block-riad-alert.alert-danger { color: red; }
+ .wp-block-riad-alert.alert-success { color: green; }
+ .wp-block-riad-alert.alert-warning { color: orange; }
